@@ -1,0 +1,4 @@
+[submodule "papirus"]
+	path = papirus
+	url = https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+	branch = master

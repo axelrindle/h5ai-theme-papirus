@@ -1,0 +1,40 @@
+{
+	"target": "public/images/themes/papirus",
+	"papirusBase": "./papirus/Papirus",
+	"copy": {
+		"AUTHORS": "../AUTHORS",
+		"LICENSE": "../LICENSE",
+		"README.md": "../README.md",
+
+		"folder.svg": "64x64/places/folder-blue.svg",
+		"folder-page.svg": "64x64/places/folder-blue-network.svg",
+		"folder-parent.svg": "64x64/places/folder-blue-activities.svg",
+
+		"ar.svg": "64x64/mimetypes/package-x-generic.svg",
+		"aud.svg": "64x64/mimetypes/audio-x-generic.svg",
+		"bin.svg": "64x64/mimetypes/application-x-executable.svg",
+		"file.svg": "64x64/mimetypes/application-x-zerosize.svg",
+		"img.svg": "64x64/mimetypes/image-x-generic.svg",
+		"txt.svg": "64x64/mimetypes/text-x-generic.svg",
+		"vid.svg": "64x64/mimetypes/video-x-generic.svg",
+		"x.svg": "64x64/mimetypes/text-x-generic-template.svg",
+
+		"ar-apk.svg": "64x64/mimetypes/application-vnd.android.package-archive.svg",
+		"ar-deb.svg": "64x64/mimetypes/application-vnd.debian.binary-package.svg",
+		"ar-rpm.svg": "64x64/mimetypes/application-x-rpm.svg",
+
+		"txt-css.svg": "64x64/mimetypes/text-css.svg",
+		"txt-go.svg": "64x64/mimetypes/text-x-go.svg",
+		"txt-html.svg": "64x64/mimetypes/text-html.svg",
+		"txt-js.svg": "64x64/mimetypes/text-x-javascript.svg",
+		"txt-less.svg": "64x64/mimetypes/text-css.svg",
+		"txt-md.svg": "64x64/mimetypes/text-x-markdown.svg",
+		"txt-php.svg": "64x64/mimetypes/application-x-php.svg",
+		"txt-py.svg": "64x64/mimetypes/text-x-python.svg",
+		"txt-rb.svg": "64x64/mimetypes/text-x-ruby.svg",
+		"txt-rust.svg": "64x64/mimetypes/text-x-rust.svg",
+		"txt-script.svg": "64x64/mimetypes/text-x-script.svg",
+
+		"x-pdf.svg": "64x64/mimetypes/application-pdf.svg"
+	}
+}

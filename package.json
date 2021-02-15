@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "private": "true",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "cli-progress": "^3.9.0",
+        "commander": "^7.1.0",
+        "inquirer": "^7.3.3",
+        "is-there": "^4.5.1",
+        "is-writable": "^2.0.0",
+        "mkdirp": "^1.0.4",
+        "wait": "^0.4.2"
+    }
+}
