@@ -7,23 +7,17 @@ An icon theme for [h5ai](https://github.com/lrsjng/h5ai) providing icons from th
 1. Clone this repository somewhere
 
 ```shell
-$ git clone https://github.com/axelrindle/h5ai-theme-papirus.git
+$ git clone --recurse-submodules https://github.com/axelrindle/h5ai-theme-papirus.git
 $ cd h5ai-theme-papirus
 ```
 
-2. Download submodules
-
-```shell
-$ git submodule init
-```
-
-3. Install dependencies
+2. Install dependencies
 
 ```shell
 $ npm install
 ```
 
-4. Run the installer
+3. Run the installer
 
 ```shell
 $ ./cli.js /var/www/html/_h5ai
