@@ -23,6 +23,12 @@ $ npm install
 $ ./cli.js /var/www/html/_h5ai
 ```
 
+If that does not work, try the following:
+
+```shell
+$ node cli.js /var/www/html/_h5ai
+```
+
 Replace `/var/www/html/_h5ai` with the absolute path to your `h5ai` installation.
 
 ## License
