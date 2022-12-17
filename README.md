@@ -25,6 +25,14 @@ $ ./cli.js /var/www/html/_h5ai
 
 Replace `/var/www/html/_h5ai` with the absolute path to your `h5ai` installation.
 
+4. Activate the theme
+
+Edit the file `_h5ai/private/conf/options.json` and change the value of `view.theme`:
+
+```json
+"theme": "papirus"
+```
+
 ## License
 
 While this project is [MIT](LICENSE) licensed, I'm neither the author of `h5ai` nor `Papirus`, the copyright goes to their respective authors:
